@@ -1,1 +1,1 @@
-This is a script of k-means clustering.
+This R script is used for clutering tendancy test using hopkins test.
